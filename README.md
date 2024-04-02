@@ -3,16 +3,16 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>senior QA intern at Baoiam innvation pvt ltd.</title>
+  
 </head>
 <body>
-
+<title>senior QA intern at Baoiam innvation pvt ltd.</title>
   <header>
     <h1>Welcome to BAOIAM INNOVATION PVT LTD</h1>
   </header>
 
   <section>
-    <h2>SKILLS</h2>
+<h2>Description</h2>
     <p>Hello there! I'm Simran shaikh, and this is my awesome project on GitHub. Here, you'll find MY Project: 01
 •	Testing e-learning platform “Baoiam Innovations Pvt Ltd “.
 •	Ensure that all features of the e-learning platform, such as user authentication, course enrollment, content delivery (videos, documents, and quizzes), discussion forums, and progress tracking, are working as expected.. Feel free to explore, contribute, and provide feedback!</p>
@@ -54,17 +54,6 @@
     <li><strong>Devices:</strong> Desktop, Tablet, Mobile (iOS, Android).</li>
     <li><strong>Tools:</strong> Bug tracking tools (Jira), Automation tools (Selenium).</li>
   </ul>
-    <p>To get started with this project, follow these steps:</p>
-    <ol>
-      <li>Clone the repository: <code>git clone [repository URL]</code></li>
-      <li>[Additional installation steps, if any]</li>
-      <!-- Add more installation steps as needed -->
-    </ol>
-  </section>
-
-  <section>
-    <h2>Usage</h2>
-    <p>To use this project, [instructions on how to use it].</p>
   </section>
 
   

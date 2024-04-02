@@ -6,9 +6,9 @@
   
 </head>
 <body>
-<title>senior QA intern at Baoiam innvation pvt ltd.</title>
+<h1>Senior QA intern at "Baoiam innovation pvt ltd"</h1>
   <header>
-    <h1>Welcome to BAOIAM INNOVATION PVT LTD</h1>
+    <h2>Welcome to BAOIAM INNOVATION PVT LTD</h2>
   </header>
 
   <section>
@@ -59,4 +59,9 @@
   
 </body>
 </html>
-📫 simnranshiekh@41gmail.com
+
+
+Regards,<br>
+SIMRAN SHAIKH <br>
+    📫 simranshiekh41@gmail.com
+ <br> <i class="fas fa-phone"></i> 9111830881

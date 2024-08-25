@@ -13,9 +13,17 @@
 
   <section>
 <h2>Description</h2>
-    <p>Hello there! I'm Simran shaikh, and this is my awesome project on GitHub.
+    <p>iOS Manual Tester | Quality Assurance Specialist
 
-•	Ensure that all features of the e-learning platform, such as user authentication, course enrollment, content delivery (videos, documents, and quizzes), discussion forums, and progress tracking, are working as expected.. Feel free to explore, contribute, and provide feedback!</p>
+Dedicated to ensuring top-notch user experiences on iOS devices. Experienced in rigorous manual testing methodologies, bug tracking, and collaborating with development teams to deliver polished, user-friendly applications.
+
+🍏 Specializing in iOS app testing across multiple devices and OS versions
+🔍 Skilled in creating and executing detailed test cases and scenarios
+🐞 Expert in identifying, documenting, and tracking bugs using industry-standard tools
+🤝 Strong communicator, adept at bridging the gap between QA and development teams
+📱 Passionate about mobile technology and staying current with iOS trends
+
+Always looking to connect with fellow QA professionals and iOS enthusiasts!</p>
   </section>
  <section>
 <h1>Here's a test strategy for Memoneet's iOS application, focusing on key areas to ensure a robust and user-friendly experience:</h1>

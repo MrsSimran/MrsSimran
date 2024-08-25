@@ -6,38 +6,69 @@
   
 </head>
 <body>
-<h1>Senior QA intern at "Baoiam innovation pvt ltd"</h1>
+<h1>QA manual ios tester at <b>Memoneet</b></h1>
   <header>
-    <h2>Welcome to BAOIAM INNOVATION PVT LTD</h2>
+    <h2>Welcome to Memoneet</h2>
   </header>
 
   <section>
 <h2>Description</h2>
-    <p>Hello there! I'm Simran shaikh, and this is my awesome project on GitHub. Here, you'll find MY Project: 01
-•	Testing e-learning platform “Baoiam Innovations Pvt Ltd “.
+    <p>Hello there! I'm Simran shaikh, and this is my awesome project on GitHub.
+
 •	Ensure that all features of the e-learning platform, such as user authentication, course enrollment, content delivery (videos, documents, and quizzes), discussion forums, and progress tracking, are working as expected.. Feel free to explore, contribute, and provide feedback!</p>
   </section>
+ <section>
+<h1>Here's a test strategy for Memoneet's iOS application, focusing on key areas to ensure a robust and user-friendly experience:</h1>
+<p>
+1. Functional Testing:
+   - User registration and login
+   - Course content access and navigation
+   - Quiz and practice test functionality
+   - Progress tracking and reporting
+   - Search and filter features
 
-  <section>
-    <h2>Testing performed/h2>
-    <ul>
- <li>Exploratory Testing</li>
- <li>Ad-hoc Testing</li>
- <li>Black Box Testing</li>
- <li>White Box Testing</li>
- <li>User Acceptance Testing (UAT)</li>
- <li>Regression Testing</li>
- <li>Smoke Testing</li>
- <li>Integration Testing</li>
- <li>Usability Testing</li>
-  </ul>
-  </section>
+2. Usability Testing:
+   - Intuitive UI/UX design
+   - Responsiveness across different iOS devices
+   - Accessibility features
 
-  <section>
-   <h1>Test Strategy: Baoiam Website</h1>
+3. Performance Testing:
+   - App launch time
+   - Content loading speed
+   - Smooth scrolling and transitions
+   - Battery consumption
 
+4. Compatibility Testing:
+   - Various iOS versions (focus on latest and 2-3 previous versions)
+   - Different iPhone and iPad models
+
+5. Security Testing:
+   - Data encryption
+   - Secure login process
+   - Protection of user information
+
+6. Offline Functionality:
+   - Content availability without internet
+   - Sync mechanism when online
+
+7. Push Notifications:
+   - Timely delivery
+   - Proper display and interaction
+
+8. Integration Testing:
+   - Payment gateway functionality
+   - Social media sharing features
+
+9. Localization Testing:
+   - If applicable, test for multiple languages
+
+10. Update Process:
+    - Smooth app updates
+    - Data retention after updates
+
+Would you like me to elaborate on any of these areas or suggest specific test cases for any particular feature?</p>
   <h2>Objective:</h2>
-  <p>The objective of testing is to ensure that the Baoiam website meets its functional and non-functional requirements, delivers high quality, and provides a satisfactory user experience to visitors.</p>
+  <p>To provide high-quality, comprehensive, and accessible preparation resources for NEET (National Eligibility cum Entrance Test) aspirants, enabling them to excel in the medical entrance examination and pursue their dreams of becoming healthcare professionals."</p>
 
   <h2>Scope:</h2>
   <p>Testing will cover all functional modules, user interfaces, integrations, and compatibility across supported browsers and devices.</p>

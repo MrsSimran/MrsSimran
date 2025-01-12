@@ -1,106 +1,88 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-<h1>QA manual ios tester at <b>Memoneet</b></h1>
-  <header>
-    <h2>Welcome to Memoneet</h2>
-  </header>
-
-  <section>
-<h2>Description</h2>
-    <p>iOS Manual Tester | Quality Assurance Specialist
-
-Dedicated to ensuring top-notch user experiences on iOS devices. Experienced in rigorous manual testing methodologies, bug tracking, and collaborating with development teams to deliver polished, user-friendly applications.
-
-🍏 Specializing in iOS app testing across multiple devices and OS versions
-🔍 Skilled in creating and executing detailed test cases and scenarios
-🐞 Expert in identifying, documenting, and tracking bugs using industry-standard tools
-🤝 Strong communicator, adept at bridging the gap between QA and development teams
-📱 Passionate about mobile technology and staying current with iOS trends
-
-Always looking to connect with fellow QA professionals and iOS enthusiasts!</p>
-  </section>
- <section>
-<h1>Here's a test strategy for Memoneet's iOS application, focusing on key areas to ensure a robust and user-friendly experience:</h1>
-<p>
-1. Functional Testing:
-   - User registration and login
-   - Course content access and navigation
-   - Quiz and practice test functionality
-   - Progress tracking and reporting
-   - Search and filter features
-
-2. Usability Testing:
-   - Intuitive UI/UX design
-   - Responsiveness across different iOS devices
-   - Accessibility features
-
-3. Performance Testing:
-   - App launch time
-   - Content loading speed
-   - Smooth scrolling and transitions
-   - Battery consumption
-
-4. Compatibility Testing:
-   - Various iOS versions (focus on latest and 2-3 previous versions)
-   - Different iPhone and iPad models
-
-5. Security Testing:
-   - Data encryption
-   - Secure login process
-   - Protection of user information
-
-6. Offline Functionality:
-   - Content availability without internet
-   - Sync mechanism when online
-
-7. Push Notifications:
-   - Timely delivery
-   - Proper display and interaction
-
-8. Integration Testing:
-   - Payment gateway functionality
-   - Social media sharing features
-
-9. Localization Testing:
-   - If applicable, test for multiple languages
-
-10. Update Process:
-    - Smooth app updates
-    - Data retention after updates
-
-Would you like me to elaborate on any of these areas or suggest specific test cases for any particular feature?</p>
-  <h2>Objective:</h2>
-  <p>To provide high-quality, comprehensive, and accessible preparation resources for NEET (National Eligibility cum Entrance Test) aspirants, enabling them to excel in the medical entrance examination and pursue their dreams of becoming healthcare professionals."</p>
-
-  <h2>Scope:</h2>
-  <p>Testing will cover all functional modules, user interfaces, integrations, and compatibility across supported browsers and devices.</p>
-
-  <h2>Testing Approach:</h2>
-  <ul>
-    <li><strong>Manual Testing:</strong> Initial testing phases will involve manual testing to verify basic functionality, usability, and user experience.</li>
-    <li><strong>Automation Testing:</strong> Once the basic functionality is validated, automated testing will be implemented to ensure efficient regression testing and to cover a wide range of scenarios, particularly for repetitive tasks and critical functionalities.</li>
-  </ul>
-<h2>Test Environment:</h2>
-  <ul>
-    <li><strong>Operating Systems:</strong> Windows, macOS, Linux.</li>
-    <li><strong>Browsers:</strong> Chrome, Firefox, Safari, Edge.</li>
-    <li><strong>Devices:</strong> Desktop, Tablet, Mobile (iOS, Android).</li>
-    <li><strong>Tools:</strong> Bug tracking tools (Jira), Automation tools (Selenium).</li>
-  </ul>
-  </section>
-
-  
+    <header>
+        <h1>Hi, I'm Simran Shaikh 👋</h1>
+        <h2>Manual Tester | QA Analyst | Aspiring Automation Specialist</h2>
+        <p>Welcome to my GitHub portfolio! I'm a detail-oriented software tester with over 1 year of experience in quality assurance and data verification. I specialize in ensuring the reliability and functionality of software applications by employing analytical problem-solving and meticulous attention to detail.</p>
+    </header>
+    <hr>
+    <section>
+        <h3>📫 Connect with Me:</h3>
+        <ul>
+            <li><strong>Email</strong>: <a href="mailto:simranshiekh41@gmail.com">simranshiekh41@gmail.com</a></li>
+            <li><strong>LinkedIn</strong>: <a href="https://linkedin.com/in/simranshaikh25">linkedin.com/in/simranshaikh25</a></li>
+            <li><strong>Location</strong>: Itarsi, India</li>
+        </ul>
+    </section>
+    <hr>
+    <section>
+        <h3>🛠️ Technical Skills</h3>
+        <ul>
+            <li><strong>Languages</strong>: Python (Basic), JavaScript (Basic), SQL</li>
+            <li><strong>Testing Skills</strong>: Manual Testing, Test Case Design, Functional Testing, Regression Testing, Smoke/Sanity Testing</li>
+            <li><strong>Tools</strong>: JIRA, MySQL, API Testing, NetSuite</li>
+            <li><strong>Methodologies</strong>: SDLC, STLC, Agile, Defect Life Cycle</li>
+            <li><strong>Emerging Skills</strong>: Automation Testing, Transaction Data Analysis, Dataset Management</li>
+        </ul>
+    </section>
+    <hr>
+    <section>
+        <h3>🌟 Areas of Expertise</h3>
+        <ul>
+            <li><strong>iOS Application Testing</strong>: Specialization in ensuring quality assurance for iOS applications.</li>
+            <li><strong>Data Verification</strong>: Experienced in cleaning and validating large datasets to maintain accuracy.</li>
+            <li><strong>Cross-functional Collaboration</strong>: Worked with diverse teams to enhance testing processes and product quality.</li>
+        </ul>
+    </section>
+    <hr>
+    <section>
+        <h3>💼 Work Experience</h3>
+        <h4>Manual iOS Tester</h4>
+        <p><strong>MemoNeet</strong> <em>(04/2024 - Present)</em></p>
+        <ul>
+            <li>Execute comprehensive test cases and perform software testing for iOS applications.</li>
+            <li>Utilize Python and JavaScript for basic automation tasks.</li>
+            <li>Collaborate with teams to improve testing processes and enhance software quality.</li>
+        </ul>
+        <h4>Senior QA Analyst</h4>
+        <p><strong>Baoiam Innovation Pvt Ltd</strong> <em>(02/2024 - 04/2024)</em></p>
+        <ul>
+            <li>Spearheaded quality assurance initiatives for fintech applications.</li>
+            <li>Executed test cases and improved software quality in consumer-facing applications.</li>
+        </ul>
+        <h4>QA Analyst Intern</h4>
+        <p><strong>Baoiam Innovation Pvt Ltd</strong> <em>(10/2023 - 02/2024)</em></p>
+        <ul>
+            <li>Developed and executed test cases for educational technology platforms.</li>
+            <li>Identified and documented software defects.</li>
+        </ul>
+    </section>
+    <hr>
+    <section>
+        <h3>🚀 Projects</h3>
+        <h4>MemoNeet <em>(05/2024 - Present)</em></h4>
+        <ul>
+            <li>Comprehensive testing for NEET preparation platforms on Android, iOS, and web.</li>
+            <li>Ensured quality assurance for student practice and revision features using an analytics-driven approach.</li>
+            <li>Applied analytical skills to resolve complex testing scenarios and validate data.</li>
+        </ul>
+    </section>
+    <hr>
+    <section>
+        <h3>🌱 What I'm Learning</h3>
+        <ul>
+            <li> Advancing my skills in automation testing.</li>
+            <li> Exploring data-driven testing techniques. </li>
+        </ul>
+    </section>
+    <hr>
+    <footer>
+        <p> Feel free to explore my repositories and connect with me for collaboration opportunities!</p>
+    </footer>
 </body>
 </html>
-
-
-Regards,<br>
-SIMRAN SHAIKH <br>
-    📫 simranshiekh41@gmail.com
- <br> <i class="fas fa-phone"></i> 9111830881

@@ -27,6 +27,20 @@ Hello! I'm Simran, a QA Analyst with 1.5+ years of experience in testing web and
 ---
 
 ## 🔍 Some Projects I’ve Worked On
+Simran-QA-Portfolio/
+├── README.md
+├── Baoiam/
+│   ├── Test Plan.md
+│   ├── Test Cases.xlsx
+│   ├── Bug Report.xlsx
+│   └── Summary.md
+├── MemoNeet/
+│   ├── Test Plan.md
+│   ├── Test Cases.xlsx
+│   ├── Crash Report.pdf
+│   ├── Bug Report.xlsx
+│   └── Summary.md
+
 
 ### 📱 Mobile App Testing (MemoNeet)
 - Tested major modules like Learn, Practice, NCERT Lab, and Store
